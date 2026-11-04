@@ -2,11 +2,11 @@
 
 ## Problem Statement
 
-The Smart Student Study Planner aims to help students understand and improve their academic performance using machine learning.
+The Smart Student Study Planner is designed to use machine learning to allow students to learn more about how well they are doing academically.
 
-The project uses student-related factors such as study time, previous failures, absences, and family support to predict a student's final academic grade.
+The use of factors related to students (study time, previous failure, absence, family support) will help us determine what a student's final academic grade will be.
 
-The system will also provide performance insights and personalized study-planning recommendations to help students make better academic decisions.
+The system will additionally give students feedback about their learning and personalized advice on how to plan their studies so they can make more informed choices regarding their education.
 
 ## Project Details
 
