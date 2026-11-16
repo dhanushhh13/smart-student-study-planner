@@ -48,7 +48,7 @@ Primary metric: **MAE** (mean absolute error), because it reads directly in mark
 | Linear regression (baseline) | 2.44 | 3.07 | 0.09 |
 | Decision tree (max depth 4) | 2.84 | 3.50 | -0.18 |
 | Random forest (200 trees) | 2.44 | 3.02 | 0.12 |
-| [BOOSTER NAME] | [MAE] | [RMSE] | [R²] |
+| XGBoost |	2.54 |	3.11 | 0.08 |
 | Random forest, tuned | 2.43 | | |
 
 **Held-out test set (72 students)**
