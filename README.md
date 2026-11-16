@@ -125,4 +125,4 @@ smart-student-study-planner/
 
 Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit, joblib.
 
-**Dhanush** | GitHub: [dhanushhh13](https://github.com/dhanushhh13) | LinkedIn: [linkedin.com/in/dhanushhh13] | Email: [dhanushhhs13@gmail.com]
+**Dhanush** | GitHub: [dhanushhh13](https://github.com/dhanushhh13) | LinkedIn: [https://www.linkedin.com/in/dhanushhh13] | Email: [dhanushhhs13@gmail.com]
